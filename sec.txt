@@ -1,0 +1,7 @@
+lkjdsf;
+;kjlsdfunction klm;dfinal private static function methodName(parameters)
+{
+    # code...
+}($args) {
+    # code...
+}
